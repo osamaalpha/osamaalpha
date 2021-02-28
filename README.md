@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 
  - 🔭 I’m currently student at Hackyourfuture coding school
